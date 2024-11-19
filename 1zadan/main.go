@@ -22,5 +22,5 @@ func main() {
 
 	time.Sleep(time.Second)
 
-	fmt.Println("Итоговое значение счетчика:", schetchik)
+	fmt.Println("Schetchik itog:", schetchik)
 }
